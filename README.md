@@ -1,4 +1,4 @@
-# LADB
+samsung A04e# LADB
 
 A local ADB shell for Android!
 
